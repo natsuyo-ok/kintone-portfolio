@@ -1,4 +1,4 @@
-#kintone 業務システム開発ポートフォリオ
+# kintone 業務システム開発ポートフォリオ
 
 kintoneを中心に、JavaScript・REST API・PHPなどを活用して開発した業務システムのポートフォリオです。
 
