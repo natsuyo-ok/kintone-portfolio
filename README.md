@@ -14,7 +14,7 @@ kintoneを中心に、JavaScript・REST API・PHPなどを活用して開発し�
 * 各種マスタ管理
 * JavaScriptによる入力支援・採番処理
 
-### 2. [医療機器管理システム](medical-device-management / README.md)
+### 2. [医療機器管理システム](medical-device-management　/　README.md)
 
 医療機器の点検履歴を管理するシステムです。
 
