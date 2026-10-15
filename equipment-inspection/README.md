@@ -80,3 +80,10 @@
 
 ![点検記録一覧](images/inspection-list.png)
 
+### 点検記録入力画面
+
+設備マスタから設備情報を取得し、点検パターンに応じた
+点検項目を展開します。
+
+![点検記録入力画面](images/inspection-form.png)
+
