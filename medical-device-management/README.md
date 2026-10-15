@@ -103,6 +103,12 @@ JavaScriptで総合判定を自動算出します。
 判定結果は「正常」「要注意」「異常」の
 3段階で管理し、色分けして表示します。
 
+また、点検番号の自動採番や
+次回点検日の自動計算にも対応しています。
+
+![点検記録・総合判定](images/inspection-result.png)
+
+
 
 ### 点検記録PDF出力
 
@@ -114,9 +120,4 @@ JavaScript・html2canvas・jsPDFを使用し、
 
 ![医療機器点検記録PDF](images/inspection-pdf.png)
 
-
-また、点検番号の自動採番や
-次回点検日の自動計算にも対応しています。
-
-![点検記録・総合判定](images/inspection-result.png)
 
